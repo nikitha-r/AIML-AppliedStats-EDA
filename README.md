@@ -1,1 +1,1 @@
-# AIML-AppliedStats-EDA
+# AIML_Assignments

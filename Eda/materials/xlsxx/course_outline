@@ -1,0 +1,50 @@
+ADD-ON MODULE 1 - EXPLORATORY DATA ANALYSIS & DATA PRE-PROCESSING
+
+ 
+
+Course Duration -  4 Hrs
+
+Minimum time to be dedicated for learning is 4 Hrs includes videos & reading material.
+
+ 
+
+Course Description
+
+It's not very often that you encounter data that will readily yield insights. In fact, 70% of the time while working with data is being spent in preparing the data for feature analysis. Data derived from various sources comes with its own challenges of format, missing values and extreme values. It is very elementary and very crucially to acknowledge the reliability of data and ensure normalization. This milestone in the Data Science cycle is a key enabler in deriving at the best possible Corpus for analysis and model building. This course will enable you to identify these impediments and assist you to overcome them. 
+
+ 
+
+Course Objectives
+
+After completing this course, you will be able to:
+
+Understand multivariate statistical techniques
+Working with outliers
+Impute Missing Values
+Normalize data
+ 
+
+Course Prerequisites
+
+A thorough understanding of basic statistical concepts
+ 
+
+Pedagogy
+
+The objectives envisaged in this course will be met through video lectures. It is a self-paced course provided in addition to the regular curriculum and learners are expected to use the resource in building their technical capabilities.
+
+ 
+
+Course Content
+
+Data Types
+Dispersion & Skewness
+Uni & multi Variate Analysis
+Data imputation 
+Identifying and normalizing Outliers
+ 
+
+Tools
+
+Jupyter Notebook
+
